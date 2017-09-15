@@ -1,2 +1,2 @@
 # MachineLearning-excise
-The homework of MachineLearning by Andrew Ng， which on Coursera
+The homework of MachineLearning by Andrew Ng,  which on Coursera.
